@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Innovative Masonry Restoration, LLC
+ORG:Innovative Masonry Restoration, LLC
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:
+ADR;TYPE=intl,work,postal,parcel:;;16264 Lakeside Ave SE;Prior Lake;MN;55372;
+END:VCARD
+

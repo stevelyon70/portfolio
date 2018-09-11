@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Kenvirons, Inc.
+ORG:Kenvirons, Inc.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(502) 695-4357
+ADR;TYPE=intl,work,postal,parcel:;;452 Versailles Road;Frankfort;KY;40601;
+END:VCARD
+

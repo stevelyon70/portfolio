@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:TLC Diversified, Inc.
+ORG:TLC Diversified, Inc.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(561) 478-2025
+ADR;TYPE=intl,work,postal,parcel:;;7233 Southern Blvd.;West Palm Beach ;FL;33413;
+END:VCARD
+

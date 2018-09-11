@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:City of Grand Haven
+ORG:City of Grand Haven
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(616) 842-2310
+ADR;TYPE=intl,work,postal,parcel:;;519 Washington Ave;Grand Haven;MI;49417;
+END:VCARD
+

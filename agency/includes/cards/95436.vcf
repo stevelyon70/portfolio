@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Agee Construction Corporation
+ORG:Agee Construction Corporation
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:
+ADR;TYPE=intl,work,postal,parcel:;;P.O. Box 629 Clovis;Clovis;CA;93613;
+END:VCARD
+

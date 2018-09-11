@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:C.O. Falter Construction Corp.
+ORG:C.O. Falter Construction Corp.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(315) 422-3016
+ADR;TYPE=intl,work,postal,parcel:;;403 Bear St. West;Syracuse;NY;13204;
+END:VCARD
+

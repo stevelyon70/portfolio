@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Gemini Contracting Services, Inc.
+ORG:Gemini Contracting Services, Inc.
+URL:
+EMAIL:joy@gemini-contracting.com
+TEL;TYPE=voice,work,pref:(713) 453-4691
+ADR;TYPE=intl,work,postal,parcel:;;PO Box 96408;Houston ;TX;77213;
+END:VCARD
+

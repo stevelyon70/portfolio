@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Seven Brothers Painting, Inc
+ORG:Seven Brothers Painting, Inc
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(586) 323-7054
+ADR;TYPE=intl,work,postal,parcel:;;50805 Rizzo Drive;Shelby Township;MI;48315;
+END:VCARD
+

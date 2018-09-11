@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Abhe & Svoboda
+ORG:Abhe & Svoboda
+URL:www.abheonline.com
+EMAIL:abhe@mindspring.com
+TEL;TYPE=voice,work,pref:989-271-8476
+ADR;TYPE=intl,work,postal,parcel:;;11309 Grand Blanc Rd.;Gaines;MI;48436;
+END:VCARD
+

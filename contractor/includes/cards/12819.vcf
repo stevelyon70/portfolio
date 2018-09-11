@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:A. J. Fistes Corporation
+ORG:A. J. Fistes Corporation
+URL:www.ajfistes.com
+EMAIL:ajf1@prodigy.net
+TEL;TYPE=voice,work,pref:562-424-2230
+ADR;TYPE=intl,work,postal,parcel:;;PO Box 469;San Pedro;CA;90733;
+END:VCARD
+

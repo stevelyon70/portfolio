@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:TMI Coatings, Inc.
+ORG:TMI Coatings, Inc.
+URL:
+EMAIL:tmi@tmicoatings.com 
+TEL;TYPE=voice,work,pref:(651) 452-6100 
+ADR;TYPE=intl,work,postal,parcel:;;2805 Dodd Road;St. Paul;MN;55121;
+END:VCARD
+

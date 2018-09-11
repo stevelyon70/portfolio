@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Abhe & Svoboda, Inc.
+ORG:Abhe & Svoboda, Inc.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:
+ADR;TYPE=intl,work,postal,parcel:;;18100 Dairy Lane;Jordan;MN;55352;
+END:VCARD
+

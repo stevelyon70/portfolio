@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Purcell Painting and Coatings
+ORG:Purcell Painting and Coatings
+URL:www.purcellpainting.com
+EMAIL:dpurcell@purcellpainting.com
+TEL;TYPE=voice,work,pref:206-835-6878
+ADR;TYPE=intl,work,postal,parcel:;;6456 S. 144th St. ;Tukwila;WA;98168;
+END:VCARD
+

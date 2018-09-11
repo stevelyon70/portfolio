@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Phinazee Construction & Consulting Services, Inc
+ORG:Phinazee Construction & Consulting Services, Inc
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:
+ADR;TYPE=intl,work,postal,parcel:;;1812 S Valrico Rd;Valrico;FL;33596;
+END:VCARD
+

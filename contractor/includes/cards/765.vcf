@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Atsalis Bros. Painting Co.
+ORG:Atsalis Bros. Painting Co.
+URL:
+EMAIL:atsalisbrothers@aol.com
+TEL;TYPE=voice,work,pref:586-790-0123
+ADR;TYPE=intl,work,postal,parcel:;;22189 E Fourteen Mile Rd;Clinton Township;MI;48035;
+END:VCARD
+

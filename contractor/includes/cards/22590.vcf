@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:360 Construction Co., Inc.
+ORG:360 Construction Co., Inc.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(440) 888-1363
+ADR;TYPE=intl,work,postal,parcel:;;3118 Herseford Dr.;Parma;OH;44134;
+END:VCARD
+

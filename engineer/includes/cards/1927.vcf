@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:American Structurepoint
+ORG:American Structurepoint
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(574) 287-2231
+ADR;TYPE=intl,work,postal,parcel:;;211 W Washington St #2410;South Bend;IN;46601;
+END:VCARD
+

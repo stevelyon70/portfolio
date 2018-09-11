@@ -1,0 +1,1 @@
+<cfset Application.searchObj = CreateObject("component","360cfc.search.solr") />

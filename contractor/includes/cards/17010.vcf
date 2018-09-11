@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Tecorp, Inc.
+ORG:Tecorp, Inc.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(815) 726-9192 
+ADR;TYPE=intl,work,postal,parcel:;;2331 Muriel Court;Joliet;IL;60433 ;
+END:VCARD
+

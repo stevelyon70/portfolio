@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Southern Corrosion, Inc.
+ORG:Southern Corrosion, Inc.
+URL:www.tankcare.com
+EMAIL:southcor@3rddoor.com
+TEL;TYPE=voice,work,pref:252-535-1777
+ADR;TYPE=intl,work,postal,parcel:;;738 Thelma Road;Roanoke Rapids;NC;27870;
+END:VCARD
+

@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Alpha Construction
+ORG:Alpha Construction
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(508) 473-7342
+ADR;TYPE=intl,work,postal,parcel:;;12 Princeton Dr;Milford;MA;01757;
+END:VCARD
+

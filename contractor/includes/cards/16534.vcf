@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:All States Painting, Inc.
+ORG:All States Painting, Inc.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(217) 478-2111
+ADR;TYPE=intl,work,postal,parcel:;;507 East Old Route 36 / PO Box 110;Alexander;IL;62601;
+END:VCARD
+

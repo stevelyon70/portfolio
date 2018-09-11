@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Miami-Dade Water and Sewer Department
+ORG:Miami-Dade Water and Sewer Department
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(786) 552-8150
+ADR;TYPE=intl,work,postal,parcel:;;3071 SW 38 Avenue;Miami;FL;33233;
+END:VCARD
+

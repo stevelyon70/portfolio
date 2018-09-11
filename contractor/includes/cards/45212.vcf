@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:JCI Bridge Group, Inc.
+ORG:JCI Bridge Group, Inc.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(219)324-9393 
+ADR;TYPE=intl,work,postal,parcel:;;PO Box 368;LaPorte;IN;46352;
+END:VCARD
+

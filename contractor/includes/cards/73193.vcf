@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:L&T Painting
+ORG:L&T Painting
+URL:
+EMAIL:tomeidel1@gmail.com
+TEL;TYPE=voice,work,pref:(586) 477-9627
+ADR;TYPE=intl,work,postal,parcel:;;43347 Woodbridge Dr.;Clinton Township;MI;48038;
+END:VCARD
+

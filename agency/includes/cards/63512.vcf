@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Mobile Area Water and Sewer System
+ORG:Mobile Area Water and Sewer System
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(251) 694-3100
+ADR;TYPE=intl,work,postal,parcel:;;207 North Catherine Street;Mobile;AL;36604;
+END:VCARD
+

@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:A & A Painting
+ORG:A & A Painting
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(330) 750-0637
+ADR;TYPE=intl,work,postal,parcel:;;74 Creed Circle;Campbell;OH;44405;
+END:VCARD
+

@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Wet or Dry
+ORG:Wet or Dry
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(502) 532-6190
+ADR;TYPE=intl,work,postal,parcel:;;1609 Hillsboro Road;Campbellsburg;KY;40011;
+END:VCARD
+

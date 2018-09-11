@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:ADR & Associates, Ltd.
+ORG:ADR & Associates, Ltd.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(740) 345-1921
+ADR;TYPE=intl,work,postal,parcel:;;88 West Church Street;Newark;OH;43055;
+END:VCARD
+

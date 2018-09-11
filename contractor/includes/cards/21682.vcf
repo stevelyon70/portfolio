@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:Abhe & Svoboda
+ORG:Abhe & Svoboda
+URL:www.abheonline.com
+EMAIL:
+TEL;TYPE=voice,work,pref:619-659-1320
+ADR;TYPE=intl,work,postal,parcel:;;880 Tavern Rd.;Alpine;CA;91901;
+END:VCARD
+

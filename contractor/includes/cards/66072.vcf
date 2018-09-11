@@ -1,0 +1,12 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:User;Name
+FN:JP Smith Contractors, Inc.
+ORG:JP Smith Contractors, Inc.
+URL:
+EMAIL:
+TEL;TYPE=voice,work,pref:(215) 886-1571
+ADR;TYPE=intl,work,postal,parcel:;;120 S. Easton Road;Glenside;PA;19038;
+END:VCARD
+
